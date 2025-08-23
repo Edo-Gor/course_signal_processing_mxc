@@ -6,7 +6,7 @@ This repository contains code related to the Signal Processing course by Mike X.
 
 [Complete neural signal processing and analysis: Zero to hero](https://www.udemy.com/course/solved-challenges-ants/)
 
-The majority of the "base" code is adapted from material developed by the course instructor. I have made minor modifications to experiment with it. The "problemset" files contain more of my own contributions, where I added creative input beyond the provided material.
+The majority of the "base" code is adapted from material developed by the course instructor. I have made minor modifications to experiment with it. The "problemset" or "project" files contain more of my own contributions, where I added creative input beyond the provided material.
 
 ## Structure
 
